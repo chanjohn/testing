@@ -1,3 +1,5 @@
 This is the original master copy of this doc.
 
 Now it's in the development branch.
+
+I've made this last change in the development branch, so now I'm going to merge with the master branch.
